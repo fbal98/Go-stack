@@ -115,7 +115,3 @@ Checks if the stack is empty. Takes no arguments.
 `func (s *Stack) Print(direction string)`
 
 Prints the stack items in either horizontal or vertical direction. Takes a direction string as an argument. Prints an error message if the stack is empty or an invalid direction is provided.
-
----
-
-This README provides a comprehensive overview of your stack implementation, detailing the installation, usage, and functions available.
